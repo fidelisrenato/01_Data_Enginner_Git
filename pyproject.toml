@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "git-github"
+version = "0.1.0"
+description = ""
+authors = ["Renato Fidelis <fidelisrenato8@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
